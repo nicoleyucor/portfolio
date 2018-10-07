@@ -90,6 +90,7 @@ h5, h2 {
 p {
   text-align: justify;
   text-overflow: auto;
+  color: black;
 }
 
 .clear:after{
